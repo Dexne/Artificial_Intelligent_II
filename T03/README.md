@@ -17,22 +17,22 @@ Epoch=500
 
 Stochastic Gradient Descent
 
-![SGD Error]()
-![SGD]()
+![SGD Error](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/MSE_SGD.png)
+![SGD](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/SGD.png)
 
 Batch Gradient Descent
 
-![Batch Gradient Descent Error]()
-![Batch Gradient Descent]()
+![Batch Gradient Descent Error](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/MSE_BGD.png)
+![Batch Gradient Descent](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/BGD.png)
 
 mini Batch Gradient Descent
 
-![mini Batch Gradient Descent Error]()
-![mini Batch Gradient Descent]()
+![mini Batch Gradient Descent Error](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/MSE_mBGD.png)
+![mini Batch Gradient Descent](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/mBGD.png)
 
 Pseudo Inverse
 
-![Pseudo Inverse]()
+![Pseudo Inverse](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/PINV.png)
 
 #### Conclusión
 

@@ -19,4 +19,4 @@ epochs = 10000
 
 ### Resultados obtenidos:
 
-![Accurancy]()
+![Accurancy](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T04/Accurancy.png)

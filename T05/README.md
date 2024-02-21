@@ -20,8 +20,8 @@ La función softmax es especialmente útil en problemas de clasificación multic
 
 Ejemplo 1
 
-![Ejemplo 1]()
+![Ejemplo 1](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T05/Figure_1.png)
 
 Ejemplo 2
 
-![Ejemplo 2]()
+![Ejemplo 2](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T05/Figure_2.png)

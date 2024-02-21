@@ -18,21 +18,21 @@ Por esta razón, se han desarrollado algoritmos más avanzados como los árboles
 ### Parte 1 - Compuertas lógicas
 
 Figura 1 - Compuerta AND
-![Figura 1](T02\Logic_Gates_AND.png)
+![Figura 1](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T02/Logic_Gates_AND.png)
 
 Fugura 2 - Compuerta OR
-![Figura 2](T02\Logic_Gates_OR.png)
+![Figura 2](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T02/Logic_Gates_OR.png)
 
 Fugura 3 - Compuerta XOR
-![Figura 3](T02\Logic_gates_XOR.png)
+![Figura 3](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T02/Logic_gates_XOR.png)
 
 ### Parte 2 - Índice de masa corporal
 
 Figura 4 - Índice de masa corporal - Datos de entrenamiento
-![Figura 4](T02\BMI_1.png)
+![Figura 4](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T02/BMI_1.png)
 
 Figura 5 - Índice de masa corporal - Neurona entrenada
-![Figura 5](T02\BMI_2.png)
+![Figura 5](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T02/BMI_2.png)
 
 **¿Por qué la compuerta XOR no puede ser aprendida por este modelo?**
 

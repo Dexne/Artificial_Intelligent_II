@@ -8,6 +8,7 @@
 # Importamos librerias para graficar y realizar calculos matematicos
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 
 # Linear neuron
@@ -90,11 +91,12 @@ class LinearNeuron:
         return error_history
     
 if __name__ == '__main__':
-    p = 300
-    x = -1 + 2*np.random.rand( p ).reshape(1,-1)
-    y = ( -x + 19 -12 ) + np.random.randn(1,p)
+    # Cargar los datos del archivo CSV
+    data = pd.read_csv("DataSet1.csv")
+    x = data['x'].values.reshape(1, -1)
+    y = data['y'].values.reshape(1, -1)
 
-    solver = 'SGD'
+    solver = 'PINV'
     neuron = LinearNeuron( 1, 0.005 )
     print( neuron.w )
     error = neuron.fit( x,y, solver=solver )

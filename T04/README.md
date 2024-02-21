@@ -1,22 +1,13 @@
-# Neurona Logística
+# Inteligencia Artificial 2 🤖
 
 **By: Dexne**
 
-## ¿Qué es una neurona logística?
+## ¿Qué es inteligencia artifical?
 
-Una neurona logística es una función matemática que transforma una entrada en una probabilidad. Se usa en redes neuronales para modelar la probabilidad de un evento.
-
-En términos más simples:
-
-Es como una caja negra que toma información y te da la probabilidad de que algo sea cierto.
+La inteligencia artificial (IA) es un campo de la informática que se enfoca en desarrollar sistemas y programas capaces de realizar tareas que, normalmente, requieren de la inteligencia humana. Estos sistemas emplean algoritmos y técnicas para aprender, razonar, percibir y actuar de manera autónoma, con el fin de resolver problemas, tomar decisiones o interactuar con el entorno de manera eficiente. La IA abarca diversos enfoques, como el aprendizaje automático, el procesamiento del lenguaje natural, la visión por computadora y la robótica, entre otros, y su aplicación abarca una amplia gama de áreas, desde la medicina hasta la conducción autónoma y la atención al cliente.
 
 
-### configuración utilizada
-
-d = 8
-η = 0.1
-epochs = 10000
-
-### Resultados obtenidos:
-
-![Accurancy](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T04/Accurancy.png)
+## Menú 📖
+- **Tarea 02:** [Algoritmo del perceptrón](https://github.com/Dexne/Artificial_Intelligent_II/tree/main/T02)
+- **Tarea 03:** [Neurona Lineal - ADALINE](https://github.com/Dexne/Artificial_Intelligent_II/tree/main/T03)
+- **Tarea 04:** [Neurona Logística](https://github.com/Dexne/Artificial_Intelligent_II/tree/main/T04)

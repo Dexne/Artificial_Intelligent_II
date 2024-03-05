@@ -16,10 +16,10 @@ Para el conjunto de datos siguiente usa el código generado en clase para clasif
 
 Archivos disponibles:
 
-- [moons.csv]()
-- [XOR.csv]()
-- [circles.csv]()
-- [blobs.csv]
+- [moons.csv](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/moons.csv)
+- [XOR.csv](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/XOR.csv)
+- [circles.csv](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/circles.csv)
+- [blobs.csv](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/blobs.csv)
 
 # Resultados obtenidos
 
@@ -37,13 +37,13 @@ Función de activación salida: logistica
 
 Épocas: 300
 
-![XOR_n1]()
+![XOR_n1](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/XOR/XOR_n1.png)
 
-![XOR_n4]()
+![XOR_n4](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/XOR/XOR_n4.png)
 
-![XOR_n7]()
+![XOR_n7](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/XOR/XOR_n7.png)
 
-![XOR_n10]()
+![XOR_n10](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/XOR/XOR_n10.png)
 
 ## Blobs
 
@@ -59,13 +59,13 @@ Función de activación salida: logistica
 
 Épocas: 300
 
-![Blobs_n1]()
+![Blobs_n1](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/blobs/Blobs_n1.png)
 
-![Blobs_n5]()
+![Blobs_n5](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/blobs/Blobs_n5.png)
 
-![Blobs_n10]()
+![Blobs_n10](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/blobs/Blobs_n10.png)
 
-![Blobs_n20]()
+![Blobs_n20](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/blobs/Blobs_n20.png)
 
 ## Circles
 
@@ -81,13 +81,13 @@ Función de activación salida: logistica
 
 Épocas: 300
 
-![Circles_n1]()
+![Circles_n1](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/circles/Circles_n1.png)
 
-![Circles_n10]()
+![Circles_n10](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/circles/Circles_n10.png)
 
-![Circles_n30]()
+![Circles_n30](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/circles/Circles_n30.png)
 
-![Circles_n60]()
+![Circles_n60](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/circles/Circles_n60.png)
 
 ## Moons
 
@@ -103,12 +103,12 @@ Función de activación salida: logistica
 
 Épocas: 300
 
-![Moons_n1]()
+![Moons_n1](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/moons/Moons_n1.png)
 
-![Moons_n50]()
+![Moons_n50](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/moons/Moons_n50.png)
 
-![Moons_n300]()
+![Moons_n300](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/moons/Moons_n300.png)
 
-![Moons_n700]()
+![Moons_n700](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T06/moons/Moons_n700.png)
 
 

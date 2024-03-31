@@ -7,7 +7,36 @@
 Una neurona lineal es un tipo de neurona artificial en la que la salida es una función lineal de la suma ponderada de las entradas. En el contexto del aprendizaje automático, las neuronas lineales se utilizan a menudo como capas de entrada o capas de entrada o capas de salida en redes neuronales. También se pueden usar como capas ocultas, aunque en general, las capas no lineales son más efectivas para capturar relaciones complejas entre las entradas y salidas.
 Es importante tener en cuenta que la neurona lineal es una de las funciones de activación más simples, y si salida no está limitada a un rango específico, lo que puede dar lugar a problemas de saturación si los procesos son demasiado grandes.
 
-#### Funcion objetivo
+## Instalación
+
+Para ejecutar este código, se requieren las siguientes bibliotecas de Python:
+
+- Numpy
+- Pandas
+- Matplotlib
+
+Puedes instalarlas a través del siguiente comando:
+
+```
+pip install numpy pandas matplotlib
+```
+
+## Detalles de Implementación
+
+**LinearNeuron**
+
+La clase LinearNeuron representa una neurona lineal con los siguientes métodos:
+
+- **predict(X):** Predice la salida para un conjunto de datos de entrada X.
+
+- **batcher(X, Y, batch_size):** Genera lotes de datos para el entrenamiento por lotes.
+  
+- **MSE(X, Y):** Calcula el Error Cuadrático Medio (MSE) entre las predicciones y los datos reales.
+  
+- **fit(X, Y, solver, epochs, batch_size):** Entrena la neurona utilizando diferentes métodos de optimización, como Gradiente Descendente Estocástico (SGD), Gradiente Descendente por Lotes (BGD), Mini Batcher Gradiente Descendente (mBGD) y Pseudo-inverso (PINV).
+
+
+## Funcion objetivo
 
 f(x) = −x+7∗N(0,1)
 η=0.005

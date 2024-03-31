@@ -4,13 +4,13 @@
 
 # Proyecto: Análisis de precios de vivienda
 
-Este proyecto realiza un análisis de precios de vivienda utilizando técnicas de aprendizaje automático para predecir los precios de las viviendas. Se utiliza un conjunto de datos proporcionado en el archivo [home_data.csv](T08\home_sol.py).
+Este proyecto realiza un análisis de precios de vivienda utilizando técnicas de aprendizaje automático para predecir los precios de las viviendas. Se utiliza un conjunto de datos proporcionado en el archivo [home_data.csv](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T08/home_data.csv).
 
 ## Contenido del proyecto
 
 El proyecto consta de los siguientes archivos:
 
-- [home_data.csv](T08\home_sol.py) Archivo de datos que contiene la información sobre las viviendas.
+- [home_data.csv](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T08/home_data.csv) Archivo de datos que contiene la información sobre las viviendas.
 - home_sol.py Código para el análisis
 - README.md Documentación del proyecto (este archivo).
 
@@ -64,7 +64,7 @@ Las contribuciones son bienvenidas. Si desea contribuir a este proyecto, no dude
 
 # Proyecto: Análisis de Estrellas
 
-Este proyecto realiza un análisis de estrellas utilizando técnicas de aprendizaje automático para predecir la clase espectral y el color de las estrellas. Se utiliza un conjunto de datos proporcionado en el archivo [Stars.csv](T08\Stars.csv)
+Este proyecto realiza un análisis de estrellas utilizando técnicas de aprendizaje automático para predecir la clase espectral y el color de las estrellas. Se utiliza un conjunto de datos proporcionado en el archivo [Stars.csv](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T08/Stars.csv)
 
 
 Proyecto: Análisis de Estrellas
@@ -74,7 +74,7 @@ Este proyecto realiza un análisis de estrellas utilizando técnicas de aprendiz
 
 El proyecto consta de los siguientes archivos:
 
-- [Stars.csv:](T08\Stars.csv) Archivo de datos que contiene información sobre las estrellas.
+- [Stars.csv:](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T08/Stars.csv) Archivo de datos que contiene información sobre las estrellas.
 
 - Star_sol.py: Código Python que contiene el análisis y modelado de datos.
 

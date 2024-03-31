@@ -12,4 +12,4 @@ La inteligencia artificial (IA) es un campo de la informática que se enfoca en 
 - **Tarea 04:** [Neurona Logística](https://github.com/Dexne/Artificial_Intelligent_II/tree/main/T04)
 - **Tarea 05:** [softmax](https://github.com/Dexne/Artificial_Intelligent_II/tree/main/T05)
 - **Tarea 06:** [Red Neuronal Multietiqueta](https://github.com/Dexne/Artificial_Intelligent_II/tree/main/T06)
-- 
+- **Tarea 08:** [Máquina de Soporte Vectorial - SVM](https://github.com/Dexne/Artificial_Intelligent_II/tree/main/T08)

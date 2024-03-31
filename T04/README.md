@@ -16,7 +16,7 @@ d = 8
 η = 0.1
 epochs = 10000
 
-Resultados obtenidos:
+## Resultados obtenidos:
 
 ![Accurancy](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T04/Accurancy.png)
 

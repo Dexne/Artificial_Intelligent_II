@@ -63,6 +63,6 @@ Pseudo Inverse
 
 ![Pseudo Inverse](https://github.com/Dexne/Artificial_Intelligent_II/blob/main/T03/PINV.png)
 
-#### Conclusión
+## Conclusión
 
 Podemos denotar, en las diferentes gráficas, como cada formato reduce su error cuadrático medio respecto a las iteraciones, con estos datos podemos concluir que no solo importa el algoritmo, sino también los parámetros de ajuste y las épocas que iteramos, siendo una correlación dependiente, con ellos veremos nuestros resultados mejorar u oscilar de ser mal ajustados dichos parámetros. Como podemos observar, la relación de tasa de aprendizaje y el algoritmo, es importante para objetivar la cantidad de épocas necesarias para una solución aceptable, ya que, como vimos en las gráficas previas, podemos tener cientos de iteraciones sin mejorar en nuestro modelo.

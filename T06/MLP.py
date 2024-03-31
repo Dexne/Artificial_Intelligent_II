@@ -1,7 +1,7 @@
 #
 # By: Dexne
 #
-# Red Neuronal Mlticapa
+# Red Neuronal Multicapa
 #
 
 # Importamos las librerias necesarias para los calculos matematicos y para graficar 
